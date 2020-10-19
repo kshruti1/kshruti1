@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Shruti Thekedar.
+![Shruti_Thekedar1_2_70](https://user-images.githubusercontent.com/18516523/96421282-e239d500-11f6-11eb-890d-46b82dc8b77d.png)
 
 - 🔭 I’m currently working on Angular applications.
 - 📫 How to reach me: shruti.thekedar@gmail.com
